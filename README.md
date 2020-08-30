@@ -1,6 +1,10 @@
 # Excelrest
 
 I needed this tool for a personal project. It covers only a very small usecase which is to expose an Excel file (.xlsx extension) as a (readonly) REST API.
+I made this code for my personal use ONLY, and I do not guarantee that it might be useful for anything else than my own personal interest.
+In fact, I can guarantee that it won't be.
+
+Do I need to mention that this project is not intended to be used in a serious (industrial) context? 
 
 ### Installing
 
